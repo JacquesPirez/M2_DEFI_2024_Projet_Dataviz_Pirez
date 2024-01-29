@@ -1,5 +1,5 @@
-## Qualité de l'air dans les stations de métro / RER : où en est-on ?
-# Sommaire
+# Qualité de l'air dans les stations de métro / RER : où en est-on ?
+## Sommaire
 
 - [Présentation du sujet](#presentation-du-sujet)
 - [Collecte des données](#collecte-des-données)
