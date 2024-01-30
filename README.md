@@ -30,4 +30,8 @@ Deux autres informations importantes selon la RATP :
 
 # Nettoyage et enrichissement des données
 
+Qualité de l'air à la station Châtelet :
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/16631062"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # Conclusion
