@@ -40,7 +40,7 @@ Qualité de l'air à la station Châtelet (côté RER) (source : RATP) :
 <div class="flourish-embed flourish-chart" data-src="visualisation/16639741"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Pour compléter mon analyse, j'ai décidé de me rendre sur la plateforme OpenData de la Mairie de Paris. Pour mesurer la qualité de l'air extérieure, la Mairie de Paris utilise l'indice ATMO, qui a été révisé par le Ministère de la Transition Ecologique le 1er janvier 2021.
-Voici une visualisation dynamique qui couvre la qualité de l'air en 2021 ainsi qu'en 2022 :
+Voici une visualisation dynamique qui couvre la qualité de l'air en 2021 ainsi qu'en 2022 (source : https://opendata.paris.fr/explore/dataset/qualite-de-l-air-indice-atmo/information/) :
 
 <iframe src="https://opendata.paris.fr/explore/embed/dataset/qualite-de-l-air-indice-atmo/dataviz/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
