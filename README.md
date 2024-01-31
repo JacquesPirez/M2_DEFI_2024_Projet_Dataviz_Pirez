@@ -60,3 +60,5 @@ Voici une visualisation dynamique qui couvre la qualité de l'air en 2021 ainsi 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Conclusion
+
+Pour conclure, grâce à cette enquête, nous venions d'apprendre que la qualité de l'air à Paris, que ce soit à l'extérieur, dans le métro ou le RER, dépend de plusieurs facteurs, et que la Mairie de Paris et la RATP utilisent quasiment les mêmes indicateurs pour lutter contre ce problème. Il s'agit d'un sujet sérieux contre lequel il faut lutter pour éviter d'amplifier ce phénomène de pollution.
