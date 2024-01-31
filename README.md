@@ -14,7 +14,6 @@ C'est un problème qui existe depuis des années, il s'agit de la pollution de l
 Concernant la collecte des données,j'ai commencé par des jeux de données réalisés par la RATP au format CSV, station par station. Avant d'analyser ces tableaux, il est nécessaire de faire un point sur les différents cigles mis en avant (les informations viennent de la notice explicative de la RATP, datant de 2017) :
 
 | DATE  | Date et heure de la mesure exprimé en Temps Universel L’heure réelle peut être TU+1 ou TU+2 suivant l’heure d’été ou d’hiver |
-|-------|------------------------------------------------------------------------------------------------------------------------------|
 | HEURE | Heure de la mesure                                                                                                           |
 | NO    | Concentration moyenne en NO en µg/m3                                                                                         |
 | NO2   | Concentration moyenne en NO2 en µg/m3                                                                                        |
@@ -22,7 +21,7 @@ Concernant la collecte des données,j'ai commencé par des jeux de données réa
 | PM25  | Concentration moyenne en PM2,5 en µg/m3 uniquement pour la station AUBER                                                     |
 | CO2   | Concentration moyenne en CO2 en ppm                                                                                          |
 | TEMP  | Température ambiante en °C                                                                                                   |
-| HUMI  | Humidité relative en %    
+| HUMI  | Humidité relative en %   
 
 Deux autres informations importantes selon la RATP :
 
