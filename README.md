@@ -47,9 +47,9 @@ Qualité de l'air à la station Auber (source : RATP) :
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641032"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Pour compléter mon analyse, j'ai décidé de me rendre sur la plateforme OpenData de la Mairie de Paris. Pour mesurer la qualité de l'air extérieure, la Mairie de Paris utilise l'indice ATMO, qui a été révisé par le Ministère de la Transition Ecologique le 1er janvier 2021.
+Pour compléter mon analyse, j'ai décidé de me rendre sur la plateforme OpenData de la Mairie de Paris. Pour mesurer la qualité de l'air extérieure, la Mairie de Paris utilise l'indice ATMO, qui a été révisé par le Ministère de la Transition Ecologique le 1er janvier 2021. Selon  la Mairie de Paris, cet indice "intègre les principaux polluants atmosphériques réglementés, traceurs des activités de transport, urbaines et industrielles PM10, PM2.5, dioxyde d'asote, ozone, dioxyde de souffre. Il se décline en six qualificatifs définis selon différentes classes pour ces cinq polluants : "bon", "moyen", "dégradé", "mauvais", "très mauvais", "extrêmement mauvais"". 
 Voici une visualisation dynamique qui couvre la qualité de l'air en 2021 ainsi qu'en 2022 (source : https://opendata.paris.fr/explore/dataset/qualite-de-l-air-indice-atmo/information/) :
 
-<iframe src="https://opendata.paris.fr/explore/embed/dataset/qualite-de-l-air-indice-atmo/dataviz/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
+<div class="flourish-embed flourish-chart" data-src="visualisation/16641296"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Conclusion
