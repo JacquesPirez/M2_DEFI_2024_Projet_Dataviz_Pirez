@@ -32,7 +32,7 @@ Deux autres informations importantes selon la RATP :
 - "La qualité de l'air en station varie en fonction de différents paramètres tels que l'affluence, la profondeur de la station, le type de matériel roulant, la fréquence du trafic, les travaux d'entretien et de génie civil, l'air extérieur...
 - La nuit, en dehors des heures d'exploitation, les pics de concentrations en particules et en dioxyde d'azote sont dus essentiellement à la présence de chantiers de rénovation (renouvellement des voies, ajout de façades de quai etc...)".
 
-# Nettoyage et enrichissement des données
+# Nettoyage des données
 
 Qualité de l'air à la station Châtelet (source : RATP) :
 
