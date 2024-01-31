@@ -24,6 +24,7 @@ Concernant la collecte des données,j'ai commencé par des jeux de données réa
 | CO2         | Concentration moyenne en CO2 en ppm                                                                                          |
 | TEMP        | Température ambiante en °C                                                                                                   |
 | HUMI        | Humidité relative en %   
+Informations de la RATP, tableau généré par Tables Generator.
 
 Deux autres informations importantes selon la RATP :
 
