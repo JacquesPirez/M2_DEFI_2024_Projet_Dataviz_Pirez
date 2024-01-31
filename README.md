@@ -34,20 +34,20 @@ Deux autres informations importantes selon la RATP :
 
 # Nettoyage des données
 
-Qualité de l'air à la station Châtelet (source : RATP) :
+Qualité de l'air à la station Châtelet (source : https://data.ratp.fr/explore/dataset/qualite-de-lair-mesuree-dans-la-station-chatelet/information/) :
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16631062"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-Qualité de l'air à la station Châtelet (côté RER) (source : RATP) : 
+Qualité de l'air à la station Châtelet (côté RER) (source : [RATP](https://dataratp.opendatasoft.com/explore/dataset/qualite-de-lair-mesuree-dans-la-station-chatelet-rer-a0/information/?sort=-dateheure)) : 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16639741"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Qualité de l'air à la station Auber (source : RATP) : 
+Qualité de l'air à la station Auber (source : https://data.ratp.fr/explore/dataset/qualite-de-lair-mesuree-dans-la-station-auber/information/?sort=-dateheure) : 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641032"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Qualité de l'air à la station Nation (côté RER A) (source : RATP) :
+Qualité de l'air à la station Nation (côté RER A) (source : https://data.ratp.fr/explore/dataset/qualite-de-lair-mesuree-dans-la-station-nation-rer-a0/information/) :
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16641606"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
