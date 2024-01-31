@@ -4,7 +4,7 @@
 
 - [Présentation du sujet](#presentation-du-sujet)
 - [Collecte des données](#collecte-des-données)
-- [Nettoyage et enrichissement des données](#nettoyage-et-enrichissement-des-données)
+- [Nettoyage des données](#nettoyage-des-données)
 - [Conclusion](#conclusion)
 
 # Présentation du sujet
