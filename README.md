@@ -1,4 +1,3 @@
-# Qualité de l'air en Île-de-France : où en est-on ?
 ## Sommaire
 
 - [Présentation du sujet](#presentation-du-sujet)
