@@ -48,4 +48,8 @@ Voici une visualisation dynamique qui couvre la qualité de l'air en 2021 ainsi 
 
 <iframe src="https://opendata.paris.fr/explore/embed/dataset/qualite-de-l-air-indice-atmo/dataviz/?&static=false&datasetcard=false" width="800" height="600" frameborder="0"></iframe>
 
+Qualité de l'air à la station Auber (source : RATP) : 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/16641032"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 # Conclusion
