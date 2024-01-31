@@ -34,7 +34,6 @@ Qualité de l'air à la station Châtelet (source : RATP) :
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/16631062"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Deuxième graphique
 
 Qualité de l'air à la station Châtelet (côté RER) (source : RATP) : 
 
